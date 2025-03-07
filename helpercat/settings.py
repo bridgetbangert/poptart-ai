@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-4ks+k+unapyjuo8i%)dv_&l&9^2$u($x2dln0qy7rz)#ub@#(7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['3.141.120.176', 'localhost']
 
 
 # Application definition
@@ -127,5 +127,3 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
-
-ALLOWED_HOSTS = ["3vm-resolute-kelvin.circumeo-apps.net", ".poptart-ai.bridgetbangert.com"]
