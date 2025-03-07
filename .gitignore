@@ -41,6 +41,3 @@ poetry.lock
 # Ignore Docker files (if using Docker)
 *.env
 docker-compose.override.yml
-
-# Ignore my prompt engineering document
-context.txt
