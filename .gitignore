@@ -1,0 +1,46 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore the virtual environment
+venv/
+.env
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore database files
+*.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore compiled code
+*.egg-info/
+*.egg
+
+# Ignore static and media files (optional)
+staticfiles/
+media/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Pipenv and Poetry files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore Docker files (if using Docker)
+*.env
+docker-compose.override.yml
+
+# Ignore my prompt engineering document
+context.txt
