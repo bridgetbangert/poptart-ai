@@ -30,7 +30,7 @@ SECRET_KEY = "django-insecure-4ks+k+unapyjuo8i%)dv_&l&9^2$u($x2dln0qy7rz)#ub@#(7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3.128.127.253', 'localhost', 'poptartai.bridgetbangert.com']
+ALLOWED_HOSTS = ['3.128.127.253', 'localhost', 'poptart-ai.bridgetbangert.com', 'www.poptart-ai.bridgetbangert.com']
 
 
 # Application definition
