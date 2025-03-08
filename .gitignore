@@ -41,3 +41,5 @@ poetry.lock
 # Ignore Docker files (if using Docker)
 *.env
 docker-compose.override.yml
+
+instructions.txt

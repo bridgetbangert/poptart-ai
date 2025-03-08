@@ -7,7 +7,10 @@ from .models import Chat
 
 load_dotenv()
 client = OpenAI(api_key=os.environ.get('OPENAI_KEY'))
-model_instructions = OpenAI(api_key=os.environ.get('OPENAI_PROMPT'))
+
+f = open("cat/instructions.txt", "r")
+model_instructions = f.read()
+f.close()
 
 def index(request):
     Chat.objects.all().delete()
