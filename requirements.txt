@@ -3,6 +3,7 @@ beautifulsoup4==4.13.3
 pandas==2.2.3
 python-dotenv==0.21.0
 geckodriver_autoinstaller==0.1.0
+gunicorn==23.0.0
 requests==2.32.3
 openai==1.65.4
 django==5.1.7
