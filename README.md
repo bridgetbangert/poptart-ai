@@ -1,10 +1,10 @@
 # Poptart AI - Your Sassy Resume Assistant 🐱💼  
 
-Welcome to Poptart AI, the AI-powered resume writing assistant with personality! Named after my sassy and pate-loving cat, Poptart AI helps you craft compelling resumes with expert AI guidance—while keeping things delightfully snarky. Built with Django and the OpenAI API, and hosted on AWS, it's available online at http://poptart-ai.bridgetbangert.com/.
+Welcome to Poptart AI, the AI-powered resume writing assistant with personality! Named after my spoiled, pate-loving cat, Poptart AI helps you craft compelling resumes with expert AI guidance—while keeping things delightfully snarky. Built with Django and the OpenAI API, and hosted on AWS, it's available online at http://poptart-ai.bridgetbangert.com/.
 
 ## Features  
 ✅ **AI-Powered Resume Assistance** – Generate bullet points, summaries, and more using OpenAI.  
-✅ **Personality-Driven Feedback** – Poptart AI isn't just helpful—it's got attitude.  
+✅ **Personality-Driven Feedback** – Poptart isn't just helpful for writing resumes, she also loves to express her love for the finer things (like pate).  
 ✅ **Django Backend** – Built with a robust Django framework.  
 ✅ **AWS Hosted** – Secure and scalable deployment.  
 
