@@ -1,0 +1,471 @@
+36 Resume Rules For Software Engineers
+Software Engineering Career Advice
+
+I've helped dozens of people land jobs at companies like 
+Google, Lyft, Amazon, and Facebook. As an undergrad, I 
+was a Software Engineering intern at Microsoft and Google 
+and after graduation worked at Facebook.
+
+From all this experience, I've reviewed hundreds of 
+programmer's resumes and found that people kept making 
+the same mistakes on their resumes over and over again. I 
+don't blame them – they are too busy grinding Data 
+Structures & Algorithms interview questions but it's 
+like.... what's the point of coding interview prep if you 
+don't even get called in for the interview?
+
+That's why I created 7 general principles, with 36 
+actionable tips, to improve a resume.
+Short on time? Or prefer video to text?
+
+I've talked about a few of these tips, and did a live 
+resume review with YouTuber Singh in USA. If you learn 
+better via video, or want to see me apply these tips 
+live, check out the video below. But for the in-depth 
+details, the guide below is your best bet.
+Nick Singh reviews coding resume with Singh In USA 
+(Harnoor Singh)
+
+You can also watch me critique a real Data Science resume 
+in a free lesson from my video course, Ace the Data Job 
+Hunt! I also offer 1:1 coaching packages through my video 
+course in case you want your resume reviewed!
+Roasting Sarah Smith's Resume for 10 Minutes
+Principle #1: The Sole Purpose Of Your Resume Is to Land 
+an Interview
+
+No resume results in an immediate job offer; that isn’t 
+its role. What your resume must do is convince its 
+recipient to shuttle you past the company’s gatekeepers 
+and into their inner offices, so they can take a closer 
+look at you. It is during the first interview—and any 
+subsequent ones—that your fate is determined by the 
+powers that be at the company you want to join. It is 
+during the interview process that your technical coding 
+and people skills will carry you toward an offer. Your 
+resume merely opens the door to the all-important 
+interview process.
+Tip #1: Present a Short Resume
+
+Seriously. Keep it to one page. Even if you have more 
+than ten years’ experience, try for one page. Remember: 
+you aren’t going for a job offer in it. Save whatever 
+else you want to say for your in-person interview when 
+you’ll be given ample time to get into the weeds and 
+impress the interviewer with your breadth of knowledge 
+and experience. Keep your resume short and sweet. (If you 
+believe you’re the rare exception to this rule, see tip 
+#2)
+Tip #2: The Better You Are, The Less You Should Put on 
+Your Resume
+
+Drowning your accomplishments in irrelevant information 
+is counterproductive. Stick to the highlights. They are 
+what determine whether you’ll be invited through the door 
+for an interview. Make the chief accomplishments on your 
+resume as easy, and as obvious, as possible so the person 
+who grants interviews can quickly consider you an 
+outstanding candidate. (Extra filler doesn’t help, unless 
+you have absolutely nothing of substance in the first 
+place. And resume readers are rarely fooled by fluff.)
+Tip #3: Make Your Resume Target the Exact Role You’re 
+Seeking
+
+What you throw a spotlight on during an interview 
+changes, depending on the role you’re seeking. In the 
+same way—and for the same reason—your resume should be a 
+living document, not a catch-all for everything you’re 
+good at. Throwing a bunch of stuff at a wall, hoping some 
+of it sticks, isn’t a sound strategy. I’ve seen what I 
+call “fence-sitting resumes” where candidates are doing 
+their best to straddle two roles: Product Management and 
+Software Engineering. But it’s key to have two different 
+resumes, so you can cast a spotlight on relevant 
+experiences, depending on the position you’re seeking. 
+When I was in search mode for my next position, I had one 
+resume tailored to back-end/ data infrastructure roles, 
+and another tailored to product engineering & growth 
+engineering roles.
+Tip #4: Tailor Your Resume to a Specific Company
+
+Alter your resume to reflect the exact company you’re 
+applying to. For example, when I applied to government 
+contractors, I put ‘U.S. Citizen’ at the top of my resume 
+so the recruiter would know I had the proper background 
+to work on sensitive projects. Giving them what they need 
+to know upfront helps them know you recognize their 
+screening process and that they aren’t wasting their time 
+talking to an unqualified person, so they can focus fully 
+on your resume. But leading with ‘U.S. Citizen’ at many 
+other companies wouldn’t make sense.
+
+Here’s another example. Let’s say you worked as a social 
+media assistant part-time three years ago promoting your 
+aunt’s restaurant. This experience isn’t relevant for 
+software engineering roles and can be left off your 
+resume. But if you’re applying to Facebook, and 
+interested in ads, it’s worth including. Tailor. That. 
+Resume.
+
+For more concrete examples, enroll in my video course to 
+watch me tailor Sarah Smith's resume for 3 different 
+jobs:
+Tip #5: Omit Non-Relevant Jobs
+
+Google doesn’t care that you were a lifeguard two summers 
+ago. Get rid of all non-relevant jobs. The exception to 
+this rule is if you have zero job experience. If that’s 
+the case, leave the job in to prove you’ve held a 
+position that required sobriety, alertness, and 
+responsibilities before.
+Principle #2: Build Your Resume To Impress The Recruiter
+
+The person you most need to impress is a non-technical 
+recruiter. The Senior Software Engineer at the company 
+you want to work for isn’t your target audience; she’ll 
+be impressed based on your coding ability later, during 
+your technical interviews. The hiring manager isn’t your 
+audience; she’ll be impressed by your GitHub project 
+portfolio and behavioral interview answers during your 
+onsite hiring manager interview.
+
+Keeping your audience in mind, it’s the non-technical 
+recruiter that your resume needs to impress.
+Tip #6: Get To ‘Yes’ in 15 Seconds
+
+Recruiters are busy people. They meet candidates at 
+crowded career fairs. They receive dozens of emails and 
+LinkedIn requests every day from job hunters. They have 
+brief moments to review your resume. So, ask yourself: 
+“Is my resume understandable in 15 seconds?” If you can 
+say “Yes, I should become a viable candidate within 
+15seconds of reading this”, your job is done. That’s why 
+the tips under Principle 1 are crucial; too many details 
+make it impossible to get to ‘yes’ in under 15 seconds.
+Tip #7: Your Resume Must Make Sense to A Non-Technical 
+Person
+
+Spell out technical acronyms if they aren’t obvious. Give 
+a little background; don’t just assume the reader will 
+understand. For example, a research project called 
+“Continuous Deep Q-Learning with Model-based 
+Acceleration” doesn’t make sense to most people, but 
+“Flappy Bird Bot Using Deep Learning” is memorable and 
+more intriguing to the average non-technical recruiter.
+Tip #8: Break Formatting Rules to Make your Resume More 
+Understandable
+
+Bold any words that make your resume easier to understand 
+so the reader can get to yes in 15 seconds. For example, 
+I made the size of the companies I worked at bigger than 
+other text so that, while scanning my resume, a recruiter 
+could quickly see and say, “Microsoft Intern. Check. 
+Google Intern. Check. Okay, let’s interview this kid.”
+Tip #9: Report Usage Numbers If You Can.
+
+People are interested in people. Consumer products are 
+sexier than enterprise products. If your software served 
+actual users, say so. Talking about user metrics shows 
+that you were able to complete code and get it in front 
+of real people who derived real value. Even if the 
+project is technically simple, real user count goes a 
+long way.
+
+For example, in college, I made RapStock.io. It wasn’t 
+very well designed, and the code wasn’t complex but, at 
+its peak, it had 2,000 Monthly Active Users. This 
+experience opened many doors in addition to giving me a 
+great story to tell.
+Tip #10: You’re Applying to a Business So Talk Business
+
+If you’re applying to a business and your recruiter might 
+be a business major, quantify your work in business 
+terms. Write out the specific dollars earned, or dollars 
+saved, as a result of your work. Most recruiters would 
+rather read about the software you wrote that made $2,000 
+in revenue than a side project where you solved P vs. NP 
+because it’s hard to explain P vs. NP and why it matters 
+on a resume unless you describe it with secondary results 
+like ‘Won a Nobel Prize’. But $2000 cash is $2000 cash; 
+no explanation needed.
+Principle #3: Your Resume Should Make You Look Good
+
+Sounds obvious enough. But I’ve seen people volunteer 
+negative information. A more common problem is 
+volunteering neutral information. Remove whatever 
+information subtracts from the positive content in your 
+resume.
+Tip #11: Remove the Summary / Objective
+
+Your aim must be to look exceptional, not typical or 
+neutral. How yawn-some is this: “I am a hard-working, 
+innovative developer looking for a Software Engineering 
+Job in Summer 2019”. And this section is usually right at 
+the top of a resume, taking up valuable real estate!
+Tip #12: Break Section Order When Necessary to Stand Out
+
+In English, we read from top to bottom. And since you 
+have just 15 seconds to impress a recruiter, you need to 
+look undeniably attractive as a candidate super-fast. To 
+do this, put your strongest selling points at the top. 
+Lead with your internship experience and then follow it 
+up with your ‘Education’ section.
+
+Here’s a thumbs down example: I’ve seen people list 
+‘Technologies’ ahead of the cool projects they’ve made. 
+Recruiters don’t care that you know twelve programming 
+languages. They just care about the cool things you’ve 
+made with the technologies you know.
+Tip #13: Break Chronological Order When Necessary
+
+Your resume doesn’t have to be chronological. Order it 
+based on importance and impressiveness. For example, I 
+had a friend who interned at Google one summer, then at a 
+small local startup part-time after that. It’s okay to 
+keep Google at the top of the resume, ahead of the small 
+local startup, even though the startup was more recent. 
+List first what makes you look best to the recruiter 
+you’re targeting.
+Tip #14: To Show Highlights, Bend Formatting Rules
+
+Good design principles aren’t paramount. You just need to 
+get results. So, break traditional formatting rules 
+whenever doing so shows off your strengths faster.
+
+For example, traditionally, you should bold only section 
+headings and titles. But I bolded the user metrics for 
+RapStock.io on my resume. I wanted to quickly call out 
+this information because it was sandwiched between 
+additional information about my projects. So, use bold or 
+italicized font to put a point across.
+Tip #15: Don’t Be Humble—But Don’t Lie or Exaggerate
+
+Your resume should make you shine so don’t be humble or 
+play it cool. If you deserve credit for something, put it 
+on your resume. But never lie or overstate the truth. 
+It’s easy for a recruiter or other company employee to 
+chat with you about projects and quickly determine if you 
+did it all or if it was actually a 3-person group project 
+you’re passing off as your own.
+Tip #16: Include Your High School?
+
+Traditional advice says get rid of high school 
+information on your resume. I disagree. If you attended a 
+top high school like Stuyvesant, Phillips Exeter, or 
+Thomas Jefferson High School for Science & Technology (go 
+Colonials!), put it on your resume. This is especially 
+true if the high school you attended is more prestigious 
+than the college you attended.
+Tip #17: Include Your SAT Score or Other High School 
+Accomplishments?
+
+Even though SAT scores don’t matter after you get into 
+college, an impressive score is an impressive score. If 
+you achieved a high score (2350 or above), include it. 
+Traditional career advice says to leave out high school 
+stuff, but I’ve had recruiters & interviewers mention it 
+and be impressed by it even six years after the exam was 
+taken.
+
+Other notable high school accomplishments that might be 
+relevant: USAMO, USACO, ISEF, Siemens STS, or Coca-Cola 
+Scholarship.
+Principle #4: Offer the Right Resume to The Right League
+
+Know the league of companies you’re applying to. And be 
+honest with how impressive your resume is. Sometimes, 
+something that looks good at one tier of companies is a 
+negative signal at another tier of companies. PLEASE 
+NOTE: The advice in this section is tailored for applying 
+to top-tier tech companies like Facebook and Google. (You 
+can ignore this advice if top-tier tech companies aren’t 
+your targets.)
+Tip #18: List A GPA Only When it Helps
+
+A 3.4 at MIT might be okay to list. But a 3.5 at a 
+no-name easy college might not be something to volunteer 
+if Google doesn’t usually recruit at your college since 
+Google might be expecting you to be at the top of your 
+class.
+Tip #19: Not All Languages & Technologies Are Equal
+
+When applying to top-tier Silicon Valley startups, 
+ASP.NET / C# isn’t super great to lead with, since you 
+might be perceived as being a slow corporate I.T. 
+developer rather than a startup ‘hacker’. (It’s an unfair 
+bias, but I’m telling it like it is.) Similarly, never 
+list Microsoft Office. For a certain tier of companies, 
+it can be a negative signal to write that you know 
+Microsoft Office since it shows you didn’t have anything 
+better to list.
+Tip #20: Remove Certifications
+
+Being a certified Oracle Java programmer won’t open any 
+doors at top-tier companies. It might even hurt you since 
+it’s perceived that if you needed certifications to prove 
+your competence, you aren’t very competent since the bar 
+for certifications is so low. Having projects that use 
+Java, or open-source contributions to Java packages, is a 
+far better way to show Java proficiency.
+Tip #21: Don’t Over-Emphasize Technologies
+
+In the right league, you don’t need to do overemphasize 
+specific packages and libraries you know. Good software 
+engineers are expected to learn new languages quickly and 
+be experts at software engineering in general, not 
+specific languages. Mentioning that you know Python, PIP, 
+Virtualenv, BeautifulSoup, Scrapy is a negative signal. 
+It makes a recruiter think all you’ve done is downloaded 
+a few Python packages and listed it on your resume.
+Tip #22: The Higher the Company Tier, The Higher the B.S. 
+Detector
+
+The more prestigious the company, the less you need to 
+rely on corporate B.S. speak. You don’t need details 
+about how you ‘communicated with multiple teams and 
+worked with teammates to problem-solve solutions.’ 
+Similarly, writing that you followed an ‘agile 
+methodology’ doesn’t mean much. The higher the league of 
+the company, the more they care about actual specific 
+details and substance.
+Principle #5: Resumes: It’s All About the Narrative
+
+A good story is a powerful thing.
+Tip #23: Humans Love Stories
+
+Resume readers are relational human beings. If they like 
+you better than they like other candidates, they will 
+help you land an interview. People love a good story. By 
+remembering that resume readers are human, you’ll end up 
+crafting a better story which leads to a better resume.
+Tip #24: Break Resume Rules for the Narrative
+
+You can break any of the tips I’ve listed for what makes 
+a good resume for the sake of the narrative. Earlier, I 
+mentioned that listing irrelevant jobs—like being a 
+cashier or waiter—won’t help you land a software 
+engineering gig. But go ahead and tell your story if, for 
+example, you were a waiter who went on to build an app 
+that helps restaurants donate leftover food to food 
+banks. Another example: people might advise you against 
+linking to your hip hop mixtape on Soundcloud from your 
+resume. But if you’ve made a few hackathon projects 
+around hip-hop music, it’s perfectly fine to list it 
+since it shows a recruiter that you took your passions 
+and created software to further the interest. That’s a 
+great story.
+Principle #6: Simple Resume Basics that People Get Wrong 
+Or Overlook
+
+I started with unconventional tips since they’re the most 
+interesting, but let’s cover the basics of resumes too.
+Tip #25: Make Your Name Prominent
+
+Self-explanatory. Near your name, add a professional 
+email address too. Also, not a Yahoo mail or Hotmail 
+addresses. Tech folks are judgy.
+Tip #26: Never Include your Mailing Address
+
+Companies are biased toward hiring local candidates 
+because they don’t need to pay relocation fees. And 
+recruiters are compensated based on the number of 
+candidates they can close. So, put yourself in a 
+recruiter’s chair. Let’s say you’re a Silicon 
+Valley-based company recruiter with two 
+identically-skilled candidates, but one lives in the Bay 
+area and the other lives in NYC. Which of the two are you 
+more likely to close? The NYC candidate who needs to 
+decide to move to SF and uproot her family before 
+accepting your offer or the local person who can accept 
+your offer and start next week? You get the picture.
+Tip #27: Don’t List Your Phone Number Unless It’s Local
+
+Because of the spam robocall epidemic, anyone who calls 
+you will email you first to ask for your phone # and set 
+up a time. So, there’s no need to list a phone number. 
+Remember: you have 15 seconds to rivet someone to your 
+resume. Don’t waste a second of that time on 
+non-essential information. Note: if yours is an 
+international phone number, again, there may well be a 
+bias toward hiring local candidates. And people notice 
+when your number has is a far-flung area code. (When I 
+interviewed for a Silicon Valley position, I made a 
+Google Voice number with the Palo Alto area code. I 
+wanted to hide the fact that I lived 3,000 miles away as 
+best I could.)
+Tip #28: Include Your GitHub And Personal Portfolio 
+Website Link
+
+Your links don’t need to be super prominent. It’s okay if 
+the GitHub is a bit messy. It’s okay if the portfolio 
+website is super simple. I made mine with a free default 
+template from Bootstrap. Simply having a GitHub listed is 
+a sign that you have coded out in the open and that 
+you’re aware of source control. And remember: since the 
+first interview gatekeeper is a non-technical recruiter, 
+he or she most likely won’t be able to tell a messy 
+GitHub from an okay one anyway.
+
+If you want more inspiration on what a good portfolio 
+project even looks like, watch this video on 6 Data 
+Science Portfolio Projects Recruiters Will Love:
+
+‍
+Tip #29: Hyperlink to Outside Work Where Possible
+
+Include links to your app store, or landing pages, or 
+hackathon projects wherever possible. Linking to the 
+outside world validates to the recruiter that you made 
+something and published it to the real world. Even if the 
+recruiter never clicks on a link, just seeing the blue 
+hyper-link will give him or her a sense that there’s 
+something more there.
+Tip #30: You Don’t Need Full Sentences
+
+Your resume isn’t a formal English paper, it’s marketing 
+collateral that will be skimmed for 20 seconds. Bullet 
+points of your main ideas are fine.
+Principle #7: Good Products Need Good Distribution. Same 
+with A Resume.
+Tip #31: Save Your Resumes as PDFs
+
+PDFs maintain formatting better and lead to better 
+viewing experiences on mobile.
+Tip #32: Save Your Resumes as ‘First Name Last Name 
+Company Name Resume’
+
+When people name it “Resume.pdf” it shows a lack of 
+forethought. I have scores of files on my computer titled 
+‘Resume.pdf’ from random people and I can’t keep track of 
+them. I bet a recruiter has far more. Plus, you should be 
+making different resumes for different companies and 
+roles anyway, as mentioned earlier, so saving them with a 
+company name will help you be more organized.
+Tip #33: Change Margins to Your Favor
+
+You can change the width and height of your resume to 
+give yourself more space and breathing room so you can 
+use different font sizes and spacing to emphasize 
+different parts of it. But—again—don’t use margin changes 
+to double the content on your one-page resume. If you do, 
+you’ll drown out your best content with less-good/neutral 
+junk.
+Tip #34: Print Your Resume on Heavier Paper
+
+At a traditional career fair, print your resume on 
+heavier paper. Doing this will make the resume stand out, 
+and it will feel more professional. (And heavier paper is 
+more crumple-resistant.)
+Tip #35: Bring Your Resume Everywhere
+
+Now that you have a good resume, bring a printed version 
+to every interview, career fair, company info session, 
+and hackathon. (Doing this one simple thing helped me 
+land my internship with Microsoft. More on that later.)
+Tip #36: Get A Folio to Carry Your Resumes
+
+Crumpled resumes look unprofessional. University 
+bookstores usually sell a school-branded folio. 
+Especially if you went to a top school, get a folio with 
+the school logo front and center. It sure won’t hurt to 
+carry it with you to your interview

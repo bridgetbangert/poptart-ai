@@ -6,7 +6,7 @@ from django.http import JsonResponse
 from .models import Chat
 
 load_dotenv()
-client = OpenAI(api_key=os.environ.get('OPENAI_KEY'))
+client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
 
 f = open("cat/instructions.txt", "r")
 model_instructions = f.read()

@@ -1,0 +1,389 @@
+Many talent acquisition teams use an applicant tracking 
+system (ATS) as their primary recruitment software. That 
+is not “new news” to you or most other TA pros.
+
+However, it is easy to see why many talent leaders, 
+operations managers, recruiters and hiring managers 
+leverage the solution to drive their talent acquisition 
+strategies.
+
+The right ATS — more specifically, one with robust 
+candidate relationship management (CRM) capabilities and 
+powerful talent analytics — enables talent teams to:
+
+    Publish new postings to popular job boards with ease
+    Schedule interviews with target prospects of interest
+    Track all candidates as they move through the funnel
+    Engage qualified candidates with personalized 
+nurtures
+    Manage agency-provided data and employee referrals
+
+Hiring managers also benefit from an advanced applicant 
+tracking system. Arguably the most important tasks they 
+can tackle with premier, user-friendly ATS software are:
+
+    Collaborating closely with recruiters in the 
+interview process
+    Keeping an eye on time to hire for each of their job 
+openings
+    Updating language used in poor-performing job 
+descriptions
+    Providing timely feedback to speed up the hiring 
+process
+    Helping to oversee and adjust candidate interview 
+schedules
+
+Robust ATS and CRM solutions have many benefits for 
+today’s talent teams.
+
+And yet, many job candidates are skeptical about 
+applicant tracking systems.
+what is an applicant tracking system
+Common applicant tracking system misconceptions 
+recruiters — and candidates — should know
+
+Some candidates think ATS is a “black hole” where their 
+resumes go to die (i.e., archived the second they enter a 
+talent team’s database and forgotten about by 
+recruiters).
+
+Other candidates believe AI-powered applicant tracking 
+systems automatically eliminate them from contention for 
+roles without recruiters ever seeing their applications.
+
+The truth is there are many falsehoods regarding the 
+recruitment software — ones that prevent many job seekers 
+from submitting applications from companies who host 
+their job sites and career pages via popular ATS 
+providers.
+
+Here are four common misconceptions some candidates have 
+around ATS (and one bonus one “myth” some talent 
+acquisition pros believe about the recruiting software).
+1) AI dictates which prospects talent specialists engage 
+and dismiss
+
+Artificial intelligence (AI) is now found in many ATS, in 
+some form or another.
+
+Applicant tracking systems with AI capabilities helps 
+recruiters tackle key tasks, including reviewing job 
+applications, résumés, and candidates’ profiles at large.
+
+What AI doesn’t do, though, is replace the human element 
+of orgs’ recruiting efforts.
+
+Take the Fast Resume Review functionality in our unified 
+talent acquisition suite:
+
+    Recruiters with Lever use this daily to speed up all 
+the assessments of prospects in their pipeline.
+    Knockout questions defined by recruiters and hiring 
+managers auto-eliminate prospects who don’t meet the 
+bare-minimum criteria for roles (e.g., a certain number 
+of years of experience or certifications).
+    In minutes, they can comb over prospects’ resumes and 
+answers to other application questions.
+    Based on this review, they can skip, advance, or 
+archive talent. This will help them save for a more 
+in-depth review later, add to a nurture, or file away for 
+a potential opportunity to contact later.
+
+This evaluation is still conducted manually by those 
+charged with screening talent. But Fast Resume Review 
+nonetheless streamlines the task for them sans artificial 
+intelligence.
+
+“Some job seekers are leery of the ATS’s role in the 
+recruiting process because it’s a barrier of entry,” said 
+Lever Sr. Recruiter Rob Lingham. “They hit submit, and 
+either get a positive response, rejected, or, in the 
+worst case, no response.”
+
+    “I equate it to The Wizard of Oz,” Rob added. 
+“Candidates often think of ATS as this AI-centric ‘entity 
+behind the curtain’. It seems like some sort of 
+all-powerful system that dictates whether prospects are 
+considered for a job.”
+
+Rob noted that the proper ATS is simply a solution 
+recruiters use to comb over resumes for applicants who 
+meet the hiring manager-defined criteria for a given 
+role. (And often while listening to a “deep focus” 
+playlist.)
+
+That’s not to say AI can’t help in other ways (e.g., 
+shortlisting prospects to evaluate, auto-archiving 
+unqualified individuals, recommending candidates in your 
+database to nurture).
+
+It simply means artificial intelligence isn’t an ATS 
+feature that can or should make important decisions 
+regarding who talent teams should or shouldn’t move 
+forward with.
+applicant tracking system
+2) Recruiters reach out to prospects in bulk without 
+reviewing resumes
+
+Another common applicant tracking system misconception 
+revolves around talent outreach.
+
+Some believe talent specialists use an ATS to simply send 
+generic and generalized emails to prospects in bulk and 
+don’t (or can’t) custom-tailor any of their candidate 
+communications.
+
+This technically may be true with legacy ATS that lack 
+talent nurturing capabilities.
+
+    However, that’s not the case with modern applicant 
+tracking systems that understand the importance of 
+offering automated and intelligent email nurturing 
+capabilities for TA teams — the kind that leads to higher 
+conversions and a better candidate experience.
+
+LeverTRM™ users certainly have the option to send bulk 
+emails to prospect “lists” (e.g., those who seem like 
+good fits for open roles). But they personalize their 
+emails to ensure candidates receive the most relevant, 
+timely messaging.
+
+In other words? They don’t spam their sourced talent with 
+the same messaging regarding roles. Instead, each 
+prospect gets bespoke emails pertaining solely to a 
+specific position of interest.
+3) Candidates can “trick” applicant tracking systems into 
+accepting resumes
+
+“Gaming the [applicant tracking] system” is another 
+common myth among candidates.
+
+Many job seekers work with resume writers and job coaches 
+to fine-tune their profiles and portfolios. They do this 
+in an attempt to ensure their applications get accepted 
+by ATS solutions because they believe they have 
+“auto-review” functionality that looks for key words or 
+phrases recruiters and hiring managers are looking for.
+
+Some ATS offer this AI functionality. But, again, the 
+most successful hiring teams:
+
+    1) Examine applications and resumes one by one after 
+knockout questions automatically eliminate unqualified 
+candidates from contention for roles
+    2) Work closely with one another (i.e., ensure strong 
+recruiter-hiring manager collaboration) to determine the 
+right candidates to advance in the process
+
+“For every role I manage, I have frequent communication 
+with the hiring manager,” said Rob. “I aim to understand 
+their needs and blockers. I also seek to share the vision 
+they have for this hire. It’s with this framing that I 
+review applicants.”
+
+    Rob looks for “key indicators of alignment” when 
+reviewing applicants’ resumes to ultimately address the 
+needs of the business units he services.
+
+“To that point, it’s very helpful to have a detailed 
+resume,” said Rob. “Focus on the application of your 
+experiences and how it relates to the opportunity you’re 
+applying for.”
+
+More specifically, Rob noted applicants can make their 
+resumes stand out to recruiters with succinct yet 
+detailed resumes that make it easy for recruiters to 
+learn all important details associated with them 
+(education, work experience, skills, and the like).
+hiring process
+4) The sole goal of an applicant tracking system is to 
+serve recruiters
+
+Yes, an applicant tracking system is only used by (you 
+guessed it) talent teams. But that doesn’t mean an ATS 
+isn’t beneficial for candidates as well.
+
+After all, leading ATS solutions have features intended 
+to help recruiters and talent specialists provide a 
+high-quality candidate experience to each prospect.
+
+Just look at the talent acquisition strategy implemented 
+by Lever customer TextNow:
+
+    Upon joining the business, the company’s new talent 
+leaders saw its TA org used LeverTRM as its primary ATS 
+and CRM solution. But it became clear the team wasn’t 
+using our complete talent acquisition suite to its 
+fullest potential.
+    Specifically, the talent leads saw many candidates 
+its (high-priced) agency sourced for them were being 
+largely ignored in Lever. In other words, the team wasn’t 
+taking advantage of our CX-enhancing capabilities, like 
+Lever Nurture.
+    By training their staff on how to make the most of 
+LeverTRM (thanks to past experience using it) and moving 
+their sourcing in-house, the TextNow TA org transformed 
+its approach to connecting with and converting top 
+candidates.
+    Just as importantly, the team ensured it could offer 
+a world-class candidate experience to prospective hires 
+in its talent pool and never let a prospect ‘slip through 
+the cracks’ of its recruiting process ever again.
+
+“We’ve built out a kick-ass recruiting coordinator 
+function where we’re educating candidates, making sure 
+they’re informed, keeping them engaged, and nurturing 
+them throughout the process,” TextNow Manager of 
+Recruiting Operations Austin Nelson noted.
+
+“We do all of that through LeverTRM.”
+5) An ATS is only something Fortune 500 companies need to 
+succeed
+
+A full-fledged applicant tracking system that helps their 
+talent orgs improve communication and collaboration, 
+streamline and automate many once-manual tasks, and 
+enhance their core hiring metrics and KPIs is now table 
+stakes for large-scale companies today.
+
+But that doesn’t mean small and mid-sized businesses 
+can’t benefit from an ATS either.
+
+Even if your hiring ambitions are modest (i.e., looking 
+to bring on just a few workers per month or quarter), 
+that doesn’t mean you shouldn’t enable your talent team 
+to source, nurture, interview, analyze, and rediscover 
+talent more efficiently and effectively.
+
+Just the opposite.
+
+    A single-source-of-truth ATS with the above CRM 
+capabilities (like LeverTRM) empowers your TA org — no 
+matter the size — to tackle crucial tasks with ease and 
+stay on the same page regarding candidate activity.
+
+From writing job descriptions and setting up custom 
+nurtures to analyzing data related to leads and aiding HR 
+with their onboarding process, the right ATS-CRM gives 
+talent teams at SMBs and enterprises alike greater 
+control over and confidence in their recruiting efforts.
+
+In the digital age of recruitment, the Applicant Tracking 
+System (ATS) has become the backbone of the hiring 
+process for companies large and small. Yet, despite its 
+prevalence, the ATS is shrouded in myths and 
+misconceptions that can leave job seekers feeling 
+confused and even defeated. From tales of impenetrable 
+resume filters to the idea of an AI boogeyman silently 
+rejecting applications, the rumors are rampant. But what 
+happens when we peel back the layers? What truths are 
+revealed by those who actually wield these digital tools? 
+Let's dive in, guided by insights from recruiters across 
+various industries.
+The ATS: A Digital Gatekeeper?
+
+It's a common belief that the ATS is the gatekeeper, 
+automatically rejecting resumes before they can even be 
+glanced at by human eyes. This image of the ATS as an 
+overzealous sentinel has haunted many a job seeker's 
+dreams. However, this is one of the first myths that need 
+busting. According to feedback from various different ATS 
+users, this couldn't be further from the truth. Systems 
+like Greenhouse, Bullhorn, and iCIMS, among others, do 
+not auto-reject resumes or coldly discard your 
+application based on a mysterious set of algorithms.
+From Screening to Organizing Resumes: Understanding ATS 
+Functions
+
+So, if ATSs aren't the ruthless eliminators they've been 
+made out to be, what are they doing with your resume? Key 
+features of an ATS include managing job openings, 
+handling applications, progressing candidates through 
+various hiring stages, scheduling interviews and calls, 
+logging interactions, and tracking follow-up 
+communications. In essence, an ATS simplifies the 
+recruitment workflow, enabling recruiters to efficiently 
+manage and navigate through the plethora of applications 
+they receive.
+
+When recruiters speak about 'automation', they are 
+typically referring to broader automations in the 
+recruiting workflow (such as an automated email to a 
+candidate when they are moved from “initial phone screen” 
+to “hiring manager review”). An ATS also parses your 
+resume and makes it easy to search resumes for certain 
+keywords or experiences, such as “Java” or “Salesforce”. 
+
+Finally, there are a few ATS who will highlight 
+candidates based on their “fit” for a role (which is 
+usually keywords, experience, etc. from their resume and 
+comparing that to the job description). However, this 
+doesn't translate to automated decision-making or 
+auto-rejection. A resume ranked highly by an ATS is not 
+the end-all; it simply means that based on the parameters 
+set by the recruiters (which may include keywords, years 
+of experience, education, etc.), the system has 
+identified it as a strong match. The ultimate 
+decision-making power still rests with the recruiters and 
+hiring managers who interpret and act on that ranking.
+Human Touch in a Digital World
+
+Despite the technological assistance, recruitment remains 
+a deeply human-centric process. The ATS is a tool—albeit 
+a sophisticated one—that assists but doesn't replace the 
+nuanced decision-making of a recruiter. These 
+professionals still read through resumes, consider the 
+context, and make calls based on a myriad of factors that 
+no system could fully comprehend. Human intuition, 
+experience, and judgment are irreplaceable assets in the 
+hiring process, assets that no ATS can replicate or 
+replace.
+Myth vs. Reality: Key Takeaways for Job Seekers
+
+For job seekers, this insight has significant 
+implications. First and foremost, it's important to 
+understand that while optimizing a resume for an ATS is 
+wise, it should not be the sole focus of your application 
+efforts. Crafting a resume that speaks to both machine 
+and man is the key. Keywords and clear formatting will 
+help with ranking, but it's the substance that will 
+capture the attention of the human on the other end.
+
+Moreover, the fear that one wrong word or a lack of 
+specific jargon will result in automatic rejection should 
+be alleviated. Yes, keywords matter, but they're part of 
+a larger puzzle. Recruiters are looking for the overall 
+fit, experience, skills, and potential contribution that 
+a candidate can bring. It's a holistic view, not a binary 
+decision dictated by keyword density.
+The ATS Landscape: Diversity and Evolution
+
+The ATS market is diverse, with systems ranging from 
+Lever to Success Factors, each with its own set of 
+features and methodologies. This variety ensures that 
+there's no one-size-fits-all approach to how resumes are 
+handled. Each company tailors its ATS to meet its unique 
+hiring needs and company culture. As such, job seekers 
+should stay informed about the different systems and 
+remain adaptable in their application strategies.
+
+As we look toward the future, it's also worth noting that 
+ATS technology is constantly evolving. What holds true 
+today may change tomorrow. But one constant remains: the 
+human element in recruitment is going nowhere. As much as 
+algorithms and automation can assist, they serve to 
+augment the hiring process, not to commandeer it.
+Conclusion: Embrace the ATS, Don't Fear It
+
+In conclusion, it's time to demystify the ATS and reframe 
+it from an adversary to an ally. By understanding the 
+myths and realities of how these systems work, both 
+recruiters and job seekers can navigate the hiring 
+landscape more effectively. So, polish your resume with 
+both the ATS and the recruiter in mind, but remember, at 
+the end of the day, it's a pair of human eyes that will 
+be reviewing your skills, experiences, and potential fit 
+for their team. Let's put the myths to bed and approach 
+the ATS as what it truly is—a tool that, when leveraged 
+with understanding and skill, can lead to the door of 
+your next great opportunity.

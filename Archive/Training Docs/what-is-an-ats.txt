@@ -1,0 +1,243 @@
+
+
+There is so much confusion about ATSs. Every single day 
+recruiters try to explain the inner workings, with 
+varying degrees of success. As one of those, I’m so tired 
+of repeating myself! Instead, I’m writing this handy 
+little cheat sheet so I have something to sprinkle all 
+over the internet like common sense confetti whenever 
+this issue comes up.
+
+ATS? It’s in the name.
+
+ATS stands for Applicant Tracking System. It’s a System 
+that Tracks Applicants. That’s it. That’s the acronym. 
+Not “automated”, not “ATS system”, or any of the other 
+wild definitions people come up with. Applicant. 
+Tracking. System.
+
+THE ATS?
+
+Well, which one? Seriously there are over 200 companies 
+who currently have some kind of ATS on the market. Some 
+are highly customizable and targeted to large companies, 
+like Taleo Enterprise Edition. Others are free for 
+smaller start ups or sole proprietors, like Breezy HR. 
+The specific ATS a company may use is based on lots of 
+variables, including cost, number of users, and features. 
+The way an ATS is CONFIGURED can also vary widely – I’ve 
+personally used a few of the same systems at different 
+companies and had to learn all over because the 
+implementation was so different.
+
+So What’s An ATS For Anyway?
+
+Exactly what it sounds like! A system to track 
+applicants. Seems simple enough, but many ATSs do that 
+and more – before we get into details, let’s review the 
+general life cycle of hiring:
+
+Role Created –> Inbound Applicants/Sourced Candidates –> 
+Interviews –> Offers Created/Extended/Accepted or 
+Declined
+
+I recently created a 5 video playlist that explains these 
+steps in further detail – what many job seekers find most 
+surprising is how much “OTHER” stuff we do in our ATSs, 
+that is above and beyond reviewing resumes. Check it out 
+HERE.
+
+
+At each step of the process, the ATS is used to document 
+everything. Here’s a non-exhaustive list of the actions 
+recruiters might take any given day:
+
+Open new requisitions. These are the job postings that 
+are published on a company career page, and possibly 
+other places too. Many companies integrate with LinkedIn, 
+or Indeed, or other web scrapers that might re-share a 
+job post. Opening new roles may be complex themselves – 
+with multiple approvers, checks and balances for 
+compliance, and other steps before it even makes it to 
+the internet. All activity tied to that requisition is 
+easily viewed/filtered for reporting purposes. With few 
+exceptions, hiring doesn’t happen without a verified 
+business need / approved headcount / open role (so much 
+for the old hidden job market, huh?)
+
+Review incoming applicants. This is the step that gets 
+talked about the most. Interestingly, it’s the part I 
+spend the least amount of time doing when I’m in the ATS. 
+This IS an important step of course, but far from the 
+ONLY purpose of the ATS. Reviewing applicants is usually 
+highly manual, with recruiters quickly reviewing large 
+number of resumes or applications at once against certain 
+criteria (usually Basic Qualifications). Successful 
+applicants are usually forwarded to a business reviewer 
+(typically the Hiring Manager or a delegate) for a second 
+look. SOME systems will utilize “knock out” questions – 
+these are typically “yes/no” decision tree type 
+questions, tied to basic qualifications. For example, an 
+application question could be “are you eligible to work 
+in the US without sponsorship?” If you answer NO, you 
+will be automatically dispositioned from the position. 
+Basically that means you’re now in “rejected” status. Fun 
+fact, most ATSs (all I’ve used) have a status, and it’s 
+“rejected”. You’re still attached to the requisition. You 
+never LEAVE the requisition. You are there, forever, in 
+“rejected” status.
+
+Add sourced candidates. Sometimes this happens in a CRM 
+that “talks” to the ATS. Some systems (especially for 
+compliance purposes) require a prospect to apply. 
+Recruiters can send that invite to apply directly from 
+their CRM/ATS to help streamline the process of getting 
+their candidate attached to the requisition for hiring 
+manager review and future activity
+
+The interview process. Recruiters request review. Hiring 
+managers request an interview. Coordinators schedule 
+interviews and create feedback links. ALL of this 
+typically happens within the ATS. Some notes are 
+automatic: “submitted to Joe Smith for resume review” 
+Others are typed out: “called CANDIDATE to discuss 
+interview prep materials and confirmed schedule. Also 
+discussed comp expectations of $X, candidate anticipating 
+competing offer by date”. These entries are typically 
+time/date stamped which is very helpful when reviewing 
+previous history for a candidate.
+
+Offers. Offers are created, extended and recorded in the 
+ATS. Negotiations, approvals, all the back and forth that 
+happens during offers is typically done in this system. 
+It creates not only the required paper trail, but also 
+generates the official documents that can then be emailed 
+or delivered via a dedicated candidate portal.
+
+General Documentation / Search. Y’all. Every time I have 
+a conversation with a prospective candidate I should be 
+writing it down. I’m not always great at this, but the 
+expectation / general rules around this is DOCUMENT 
+EVERYTHING. We have a saying in recruiting – if it’s not 
+in the ATS, it didn’t happen. Track. It. All. Smart 
+recruiters will also START new searches in our database – 
+previous candidates, silver medalists on similar roles, 
+former referrals… ATSs are a literal goldmine of passive 
+talent that at some point, were interested in your 
+company. Why would you NOT search for and try to reengage 
+those folks?
+
+But What About…?
+
+Knockout questions! Yes – SOME systems are enabled with a 
+yes/no decision tree, as I mentioned above.
+
+Ranking! Sure, some ATSs will apply a “match” score – 
+typically a percentage. I have personally used ONE 
+version of ONE ATS that had this ranking (Taleo) and it 
+was awful. 100% matches were basically keyword stuffed 
+nightmares and we regularly hired 20-40% matches because 
+we would actually review the resumes to decide for 
+ourselves. Absolute trash and I hate these. If there’s a 
+good one out there, I haven’t used it.
+
+3 am rejections! Too fast, random, or middle of the night 
+updates are almost always a result of one of two things – 
+knockout questions, OR a role that is no longer accepting 
+applications. Ideally a role is REMOVED from the career 
+site when it’s got an offer extended or even accepted. 
+But systems fail, or recruiters forget to hit a button – 
+things happen and while it sucks for the job seeker, it’s 
+hardly “proof” of a bot. Some systems are set up to send 
+a disposition email 12 hours after being rejected, so 
+maybe the recruiter reviewed yours at 3 pm! OR, maybe 
+they’re actually working at 3 am. In another time zone. 
+Perhaps they’re simply a night owl – I’ve definitely 
+pulled some weird hours during the only quiet time I have 
+to get things done!
+
+But my friend/career coach/resume writer/LinkedIn 
+influencer said! Sure they did! And I bet they believe 
+it. I don’t necessarily think anyone is INTENTIONALLY 
+lying about how ATSs work to make a buck… well maybe a 
+couple of people I won’t name here. But generally 
+speaking, I think the folks spreading this misinformation 
+actually believe it – which is kind of heart breaking 
+when there’s so much actual data to the contrary. My best 
+advice to any job seeker who is worried about finding 
+“the truth”, is to go straight to the source. I talk a 
+bit about questions you can ask in this LinkedIn post. 
+Don’t even listen to ME – listen to the recruiters at the 
+companies you want to work at! They know best.
+
+Additional Resources
+
+Many recruiters have talked about this topic until we’re 
+blue in the face. Some of my fave links (including my 
+own!) included here:
+
+Marc Cenedella / Nate Smith, CEO of Lever – Secrets Of 
+The ATS is an in-depth conversation between Marc (CEO of 
+The Ladders) and Nate where they discuss some of the 
+common fallacies around ATSs. Lever is a very popular and 
+well-liked by recruiters system.
+
+Dominic Joyce, Founder of CV Upgrade – Dominic has a 
+great video that walks through step by step how a 
+recruiter navigates their ATS platform. At 5 minutes 
+long, it’s a quick yet thorough tour through a commonly 
+used ATS. Check it out HERE
+
+Kristen Fife, Senior Technical Recruiter – Kristen is a 
+well respected and tenured recruiter in the Seattle 
+market who’s been in the industry since we were accepting 
+paper applications. Her article on the ATS, Keywords, and 
+Knockout Questions is a deep dive into common processes 
+in US companies. Find it HERE
+
+Christine Assaf, Human Resources Consultant – Christine 
+wrote one of the best pieces I’ve ever read on the “75% 
+of resumes aren’t seen by a human” myth. Essentially, 
+there is no actual PROOF that this is accurate – yet 
+people share it constantly like we’ve actually seen this 
+happen in the wild… Reader, we have not. Check out her 
+AMAZING breakdown HERE
+
+Yvonne Robinson-Jackson, Executive Career Coach – In this 
+nearly hour long video, Yvonne does a DEEEEEP dive into 
+the ATS. Check out this video for more insights into the 
+backend of these various tools/processes, including some 
+screenshots from Bullhorn, a common system. Find it HERE
+
+Amy Miller, hey that’s me! 🙂 – honestly y’all I’m so 
+tired of talking about this. That’s why I wrote this 
+post, and am putting all my content in one place!! 
+Starting with The Truth About The ATS Playlist – NINE 
+videos where I break down different topics covering 
+everything from applications to boolean searches.
+
+There are lots of amazing professionals out there sharing 
+their knowledge – I’ll update this post regularly with 
+new links/content as I come across it.
+
+Ok Fine. But Why Do You Care, Amy?
+
+Y’all I wish I didn’t some days 😉 It is exhausting 
+having this conversation over and over again – BUT – I 
+started this blog and channel BECAUSE I want better for 
+those who need support. I had to learn so many things 
+about my career and job search the hard way. Now that I 
+am in a position to share my expertise, I will shout it 
+as long and loud as possible so other job seekers don’t 
+struggle through the same uncertainties and frustration I 
+did. I have helped thousands of job seekers through one 
+on one coaching and more recently, scaling my YouTube 
+channel and blog – this is the same advice I have given 
+my adult children, who have successfully navigated their 
+own early career challenges.
+
+If you’re reading this, I want the same success for you. 
+There are many things job seekers should spend time on 
+when seeking their next role – worrying about the 
+imaginary ATS bot isn’t one of them.
+

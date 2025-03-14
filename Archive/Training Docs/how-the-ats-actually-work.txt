@@ -1,0 +1,94 @@
+
+
+Background: I've been a hiring manager for 3 different 
+companies, using two different ATSs. These companies have 
+all been defense/aerospace.
+
+The ATSs have been Workday and greenhouse.
+
+I am currently hiring for 6 positions, 3 entry level and 
+3 mid career at a pretty prestigious aerospace company. 
+In the last month alone, I've reviewed 136 applications 
+for these 6 positions.
+
+This perspective may be different than a full software 
+company, and as I've never worked for one, I am not 
+speaking for those companies.
+
+    Resumes are NOT auto rejected by an ATS. The ATS is 
+simply there to keep track of applicants as they progress 
+through the system. The only exception I know of, is when 
+the HM sets up "must haves" in the system and when the 
+applicant is applying, these questions are specifically 
+asked. "Do you have a Secret clearance?" "Have you been 
+in your current position for at least 12 months?" 
+Answering no to those must have types of questions, is an 
+auto reject by the system.
+
+    Recruiters generally, have no idea what to look for 
+in a resume for any particular job. I'm hiring engineers, 
+and the recruiter likely doesn't have a technical degree, 
+so they are generally unqualified to pre-screen resumes. 
+As such, ALL resumes are pushed directly to the HM (or a 
+delegate screener. I personally don't use delegates; I 
+read every resume.)
+
+    3 things that really irritate me:
+
+a. Applying for a job you don't meet the basic 
+qualifications of. I'm hiring engineers. But you have a 
+degree in political science. Why would I hire you over 
+the other 130 applicants that are engineers?
+
+b. 2 column resumes and especially if you include a 
+picture of yourself. It is obvious you are trying to make 
+up space.
+
+c. Not tailoring your resume to the job. If you decide to 
+have an objective section, make it clear the job you are 
+applying for is your objective. I can't count the number 
+of resumes I've read, where the applicant wants to work 
+in oil and gas or metallurgy, yet I'm looking for 
+production engineers or something similar. If you are 
+applying for a manufacturing job, put some experience or 
+projects in your resume that match that job description.
+
+4. The process takes time. It sucks, I know. I will 
+review resumes on generally a daily basis then either 
+reject or pass to the next stage immediately (not the 
+norm for industry). It takes time to screen all the 
+candidates and set up interviews. Plus, this is in 
+addition to my actual job, so I have to make time to get 
+this done.
+
+5. Buzzwords, I would agree, are detrimental. However, 
+keywords, not so much (goes to the tailoring for the 
+job). If I'm looking for someone with MRB experience, I 
+want to see in your resume things like "preliminary 
+review" or "material review" or, even the keyword "MRB" 
+Itself. As the hiring manager, I want to be able to 
+quickly determine if you have the necessary 
+qualifications. I don't want to have to read between the 
+lines or make assumptions as to what you did because your 
+resume was generalized.
+
+6. I'm an expert in my field; I can smell the BS from a 
+mile away. Padding your resume with fantastic claims of 
+how you saved $2 million a year as an intern, is an 
+immediate red flag. If the rest of your resume is good 
+enough to get you to an interview, be damned sure I'm 
+going to hit you on those fantastic claims and put you on 
+the spot to justify them.
+
+7. Yes, I can see how many other jobs within the company 
+you've applied for. Does it matter? Kind of. If you've 
+applied to 39 positions and they are all over the place 
+in terms of function, it's easy to see if your resume 
+aligns better with one of those other jobs and reject 
+you. If you have 5 applications and they are all in the 
+design space, that makes it much easier for me to tell 
+this is what you want to do and I better get the process 
+going before someone else snatches you up.
+
+So, AMA.
+
